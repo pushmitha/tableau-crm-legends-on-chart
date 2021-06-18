@@ -1,0 +1,173 @@
+{
+	"dataset": {},
+	"dates": [],
+	"derivedDimensions": [],
+	"derivedMeasures": [],
+	"dimensions": [
+		{
+			"conditionalFormatting": {
+				"chartColor": {
+					"parameters": {
+						"values": [
+							{
+								"formatValue": "#006400",
+								"value": "1.  COMM"
+							},
+							{
+								"formatValue": "#008080",
+								"value": "2.  COMM"
+							},
+							{
+								"formatValue": "#1E90FF",
+								"value": "3.  COMM"
+							},
+							{
+								"formatValue": "#800080",
+								"value": "4.  COMM"
+							},
+							{
+								"formatValue": "#DB7093",
+								"value": "5.  COMM"
+							},
+							{
+								"formatValue": "#FF7F50",
+								"value": "6.  COMM"
+							},
+							{
+								"formatValue": "#006400",
+								"value": "1.  ENT"
+							},
+							{
+								"formatValue": "#008080",
+								"value": "2.  ENT"
+							},
+							{
+								"formatValue": "#1E90FF",
+								"value": "3.  ENT"
+							},
+							{
+								"formatValue": "#800080",
+								"value": "4.  ENT"
+							},
+							{
+								"formatValue": "#DB7093",
+								"value": "5.  ENT"
+							},
+							{
+								"formatValue": "#FF7F50",
+								"value": "6.  ENT"
+							},
+							{
+								"formatValue": "#006400",
+								"value": "1.  ESMB"
+							},
+							{
+								"formatValue": "#008080",
+								"value": "2.  ESMB"
+							},
+							{
+								"formatValue": "#1E90FF",
+								"value": "3.  ESMB"
+							},
+							{
+								"formatValue": "#800080",
+								"value": "4.  ESMB"
+							},
+							{
+								"formatValue": "#DB7093",
+								"value": "5.  ESMB"
+							},
+							{
+								"formatValue": "#FF7F50",
+								"value": "6.  ESMB"
+							},
+							{
+								"formatValue": "#006400",
+								"value": "1.  GB"
+							},
+							{
+								"formatValue": "#008080",
+								"value": "2.  GB"
+							},
+							{
+								"formatValue": "#1E90FF",
+								"value": "3.  GB"
+							},
+							{
+								"formatValue": "#800080",
+								"value": "4.  GB"
+							},
+							{
+								"formatValue": "#DB7093",
+								"value": "5.  GB"
+							},
+							{
+								"formatValue": "#FF7F50",
+								"value": "6.  GB"
+							},
+							{
+								"formatValue": "#006400",
+								"value": "1.  MM"
+							},
+							{
+								"formatValue": "#008080",
+								"value": "2.  MM"
+							},
+							{
+								"formatValue": "#1E90FF",
+								"value": "3.  MM"
+							},
+							{
+								"formatValue": "#800080",
+								"value": "4.  MM"
+							},
+							{
+								"formatValue": "#DB7093",
+								"value": "5.  MM"
+							},
+							{
+								"formatValue": "#FF7F50",
+								"value": "6.  MM"
+							},
+							{
+								"formatValue": "#006400",
+								"value": "1.  SMB"
+							},
+							{
+								"formatValue": "#008080",
+								"value": "2.  SMB"
+							},
+							{
+								"formatValue": "#1E90FF",
+								"value": "3.  SMB"
+							},
+							{
+								"formatValue": "#800080",
+								"value": "4.  SMB"
+							},
+							{
+								"formatValue": "#DB7093",
+								"value": "5.  SMB"
+							},
+							{
+								"formatValue": "#FF7F50",
+								"value": "6.  SMB"
+							}
+						]
+					},
+					"referenceField": "Segment",
+					"type": "categories"
+				}
+			},
+			"customActions": [],
+			"field": "Segment",
+			"label": "Segment",
+			"members": [],
+			"recordDisplayFields": [],
+			"salesforceActions": []
+		}
+	],
+	"measures": [],
+	"organizations": [],
+	"showDetailsDefaultFields": []
+}
